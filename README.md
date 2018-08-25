@@ -14,24 +14,24 @@ and the Long Term Ecological Research Network ([LTER](https://lternet.edu)).
 ## EDIorg GitHub Repositories
 ### Dataset construction with EML
 
-#### Metadata Templates
+**Metadata Templates**
 Templates for submitting metadata to EDI.
 
 - Repository: https://github.com/EDIorg/MetadataTemplates
 
-#### EML Assembly Line
+**EML Assembly Line**
 A workflow and set of functions to create EML metadata records using R (based on EML-R package).
 
 - Repository: https://github.com/EDIorg/EMLassemblyline
 
 
 ### Dataset related software 
-#### taxonomyCleanr
+**taxonomyCleanr**
 A workflow and set of functions to clean your taxonomy data using R.
 
 - Repository: https://github.com/EDIorg/taxonomyCleanr
 
-## UnitDB Registry
+**UnitDB Registry**
 Database and web-based registry for a measurement unit model; inherited from LTER
 
 - Repository: https://github.com/EDIorg/unit-registry
@@ -39,7 +39,7 @@ Database and web-based registry for a measurement unit model; inherited from LTE
     - http://unit.lternet.edu/
 
 ### Data management practices
-#### DM Best Practices
+**DM Best Practices**
 Development area for BP material which will appear on the main EDI website
 
 - Considerable material from several LTER IMC Working Group (e.g, EML Best Practices)
@@ -47,7 +47,7 @@ Development area for BP material which will appear on the main EDI website
 - Fished material appears at 
     - https://environmentaldatainitiative.org/resources/five-phases-of-data-publishing/
 
-#### Data Packages
+**Data Packages**
 Files for individual data packages which are constructed by EDI for researhers.
 
 - Code based on EMLassemblyline
@@ -55,14 +55,14 @@ Files for individual data packages which are constructed by EDI for researhers.
 
 ### Data Package Design/Harmonization
 
-#### Dataset Design
+**Dataset Design**
 General material for dataset design projects. Individual harmonization projects have their own repos.
 
 - Repository: https://github.com/EDIorg/dataset_design
 - more information 
     https://environmentaldatainitiative.org/resources/tools/dataset-design/
 
-#### ecocomDP
+**ecocomDP**
 A dataset design pattern and associated R code for ecological community data.
 
 - Repository: https://github.com/EDIorg/ecocomDP
@@ -71,14 +71,14 @@ A dataset design pattern and associated R code for ecological community data.
 
 ### Data portal-related software
 
-#### Data Portal
+**Data Portal**
 Code for the EDI Data Portal (website)
 
 - Repository: https://github.com/EDIorg/DataPortal
 - deployed at 
     - https://portal.edirepository.org/
 
-#### EML Congruence Checker (ECC)
+**EML Congruence Checker (ECC)** 
 Working group material for design of new checks for the ECC
 
 - Repository: https://github.com/EDIorg/ECC
@@ -86,20 +86,21 @@ Working group material for design of new checks for the ECC
     - https://portal.edirepository.org > Tools > Evaluate/Upload Data Packages
 
 
-#### Upload tweeter
+**Upload tweeter**
 Tweets when a new data package is uploaded to the EDI PASTA data repository
 
 - Repository: https://github.com/EDIorg/pasta-upload-tweeter
 
 ### Community engagement and training
-#### workshops
+
+**workshops**
 Materials for EDI workshops.
 
 - https://github.com/EDIorg/workshops
 - More information about EDI workshops 
     - https://environmentaldatainitiative.org/events/training-webinars-workshops/
 
-#### Tutorials
+**Tutorials**
 Documents from our online tutorials.
 
 - Repository: https://github.com/EDIorg/tutorials
