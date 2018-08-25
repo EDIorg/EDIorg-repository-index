@@ -1,4 +1,3 @@
-A meta-repository to help navigate the repositories of the EDIorg
 # Welcome to the EDI Organzation
 This meta-repository helps with navigation of the repositories under "EDIorg", belonging to
 the Environmental Data Initiative 
