@@ -76,6 +76,11 @@ Code for the EDI Data Portal (website)
 - Repository: https://github.com/EDIorg/DataPortal
 - deployed at 
     - https://portal.edirepository.org/
+    
+**Data Portal Utilities:**
+Code for interacting with the EDI Data Portal API
+
+- Repository: https://github.com/EDIorg/EDI-utilities
 
 **EML Congruence Checker (ECC):** 
 Working group material for design of new checks for the ECC
@@ -83,7 +88,6 @@ Working group material for design of new checks for the ECC
 - Repository: https://github.com/EDIorg/ECC
 - Examples of check implementation 
     - https://portal.edirepository.org > Tools > Evaluate/Upload Data Packages
-
 
 **Upload tweeter:**
 Tweets when a new data package is uploaded to the EDI PASTA data repository
