@@ -47,7 +47,7 @@ Development area for BP material which will appear on the main EDI website
     - https://environmentaldatainitiative.org/resources/five-phases-of-data-publishing/
 
 **Data Packages:**
-Files for individual data packages which are constructed by EDI for researhers.
+Files for individual data packages which are constructed by EDI for researchers.
 
 - Code based on EMLassemblyline
 - Repository: https://github.com/EDIorg/DataPackages
