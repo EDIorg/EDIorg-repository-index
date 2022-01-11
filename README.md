@@ -23,6 +23,11 @@ A workflow and set of functions to create EML metadata records using R (based on
 
 - Repository: https://github.com/EDIorg/EMLassemblyline
 
+### REST API
+**EDIutils:**
+An API Client for the Environmental Data Initiative Repository
+
+- Repository: https://github.com/EDIorg/EDIutils
 
 ### Dataset related software 
 **taxonomyCleanr:**
