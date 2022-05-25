@@ -1,7 +1,7 @@
 # Welcome to the EDI Organzation
 This meta-repository helps with navigation of the repositories under "EDIorg", belonging to
 the Environmental Data Initiative 
-([https://environmentaldatainitiative.org](https://environmentaldatainitiative.org/)).
+([https://edirepository.org/](https://edirepository.org/)).
 EDI is an NSF-funded project that accellerates curation and archive environmental data, 
 emphasizing data from projects funded by the NSF DEB. Programs served 
 include, but are not limited to, Long Term Research in Environmental Biology 
