@@ -48,8 +48,6 @@ Development area for BP material which will appear on the main EDI website
 
 - Considerable material from several LTER IMC Working Group (e.g, EML Best Practices)
 - Repository: https://github.com/EDIorg/dm-best-practices
-- Fished material appears at 
-    - https://environmentaldatainitiative.org/resources/five-phases-of-data-publishing/
 
 **Data Packages:**
 Files for individual data packages which are constructed by EDI for researchers.
@@ -101,15 +99,11 @@ Tweets when a new data package is uploaded to the EDI PASTA data repository
 Materials for EDI workshops.
 
 - https://github.com/EDIorg/workshops
-- More information about EDI workshops 
-    - https://environmentaldatainitiative.org/events/training-webinars-workshops/
 
 **Tutorials:**
 Documents from our online tutorials.
 
 - Repository: https://github.com/EDIorg/tutorials
-- More information about EDI online tutorials 
-    - https://environmentaldatainitiative.org/events/training-webinars-workshops/
 
 
 ## Support and Credits
