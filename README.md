@@ -63,15 +63,11 @@ Files for individual data packages which are constructed by EDI for researchers.
 General material for dataset design projects. Individual harmonization projects have their own repos.
 
 - Repository: https://github.com/EDIorg/dataset_design
-- more information 
-    https://environmentaldatainitiative.org/resources/tools/dataset-design/
 
 **ecocomDP:**
 A dataset design pattern and associated R code for ecological community data.
 
 - Repository: https://github.com/EDIorg/ecocomDP
-- more information
-    - https://environmentaldatainitiative.org/2017/07/07/update-data-management-for-community-survey-data-july-2017/
 
 ### Data portal-related software
 
